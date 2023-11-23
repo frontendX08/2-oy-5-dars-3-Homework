@@ -1,0 +1,132 @@
+.main {
+    margin-top: 200px;
+}
+
+.main__head {
+    margin: 0 auto;
+    width: 212px;
+    height: 56px;
+    top: 967px;
+    left: 695px;
+    font-family: Mulish;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.main__hr {
+    width: 56px;
+    height: 2px;
+    top: 1049px;
+    left: 772px;
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color: #000000;
+}
+
+.main__text {
+    width: 952px;
+    top: 1084px;
+    left: 323px;
+    font-family: Muli;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #7D7987;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.main__list {
+    display: flex;
+    margin-top: 70px;
+    list-style: none;
+    background-image: url(../images/Frame\ \(1\).png);
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main__list--item {
+    border: 2px solid rgb(237, 233, 233);
+    width: 350px;
+    height: 354px;
+    top: 1224px;
+    left: 240px;
+    border-radius: 20px;
+    box-shadow: 2px;
+}
+
+.main__list--img {
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.main__list--h3 {
+    align-items: center;
+    width: 160px;
+    height: 56px;
+    top: 1390.41px;
+    left: 279px;
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    margin-left: 30px;
+}
+
+.main__list--text {
+    width: 266px;
+    top: 1447.41px;
+    left: 279px;
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7D7987;
+    margin-left: 30px;
+}
+
+.main__button {
+    margin-left: 590px;
+    left: 751px;
+    font-family: Mulish;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #458FF6;
+    align-items: center;
+}
+
+.main__button {
+    margin-top: 100px;
+    width: 200px;
+    height: 56px;
+    top: 2041px;
+    left: 700px;
+    border-radius: 55px;
+    border: 1.4px;
+    background-color: #fff;
+    border: 1px solid #458FF6;
+    align-items: center;
+}
+
+.main__button--span {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.main__button:hover {
+    background-color: #000;
+}

@@ -1,0 +1,119 @@
+.wrapp {
+    width: 1420px;
+    height: 425px;
+    top: 3724px;
+    left: 242px;
+    border-radius: 24px;
+    background-color: rgb(9, 137, 242);
+    margin-left: 20px;
+}
+
+.wrapp__head {
+    width: 522px;
+    left: 543px;
+    font-family: Mulish;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    margin: 0 auto;
+    transform: translateY(70px);
+}
+
+.wrapp__hr {
+    width: 56px;
+    height: 2px;
+    top: 3861px;
+    left: 776px;
+    border-radius: 6px;
+    background-color: #fff;
+    margin-top: 100px;
+}
+
+.wrapp__list {
+    display: flex;
+    list-style: none;
+    margin-top: 70px;
+}
+
+.wrapp__list--icon--img {
+    margin-left: 150px;
+}
+
+.wrapp__list--item {
+    margin-left: 50px;
+    margin-top: -20px;
+}
+
+.wrapp__list--icon--head {
+    width: 184px;
+    top: 3960px;
+    left: 530px;
+    font-family: Mulish;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-bottom: 5px;
+}
+
+.wrapp__list--icon--span {
+    width: 119px;
+    left: 530px;
+    font-family: Mulish;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+}
+
+.wrapp__list--text {
+    width: 420px;
+    top: 3940px;
+    left: 824px;
+    font-family: Mulish;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+    margin-left: 500px;
+}
+
+.wrapp__bottom {
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+    transform: translateX(500px);
+}
+
+.wrapp__strilka:hover {
+    border-color: blue;
+}
+
+.wrapp__bottom--tochka {
+    text-decoration: none;
+    width: 1px;
+    height: 10px;
+    top: 4196px;
+    left: 782px;
+    opacity: 0.3px;
+    color: #5B9BF3;
+    border-radius: 50%;
+    width: 10px;
+    border: 2px solid rgb(13, 203, 241);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.wrapp__bottom--tochka:hover {
+    background-color: blue;
+    border: none;
+}
